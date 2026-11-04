@@ -1,0 +1,2 @@
+CREATE OR REPLACE TYPE t_student_ids AS VARRAY(10) OF NUMBER;
+/
